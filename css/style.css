@@ -1,0 +1,9 @@
+.image {
+    float: left;
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+}
+.textwrapper {
+    background-color: beige;
+}
